@@ -1,0 +1,11 @@
+# [3주차 과제3]
+https://github.com/kakaotrack/opensource-class fork 하고 파일 추가해서 PR 보내기
+fork 한 후 /github-2020 에 학번.md 로 파일 만들어서 올리고 Pull Request(PR) 보내기
+* 과제 제출은 PR을 확인하겠습니다.
+
+1. sourcetree 다운로드 및 로컬에 git 연결, fork 작업하기(3주차3강 듣기)
+2. 명령어 치기
+cd "경로" : 파일을 만들 경로에 들어가기
+echo "내용물" >> 파일이름 : 새로운 파일을 생성함
+git add 파일이름 : git에 추가함
+git commit -m "메모(?)내용": git에 커밋함
